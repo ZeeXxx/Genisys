@@ -1,5 +1,5 @@
 from telethon.sync import TelegramClient
-from telethon.errors.rpcerrorlist import PhoneNumberBannedError
+from telethon.errors.rpcerrorlist import phone number
 import csv
 import sys
 import pickle
